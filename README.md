@@ -1,6 +1,6 @@
 # FINTECH-Challenge-6-PyViz
 
-** FINAL ANALYSIS: **
+**FINAL ANALYSIS:**
 
 **Question:**  How does the trend in rental income growth compare to the trend in sales prices? Does this same trend hold true for all the neighborhoods across San Francisco?
 
